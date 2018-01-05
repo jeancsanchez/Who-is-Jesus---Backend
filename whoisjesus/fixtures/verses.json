@@ -1,0 +1,178 @@
+[
+{
+  "model": "verses.verse",
+  "pk": 1,
+  "fields": {
+    "verse": "Est\u00e1 escrito: N\u00e3o s\u00f3 de p\u00e3o vive o homem, mas de toda a palavra que procede da boca de Deus.",
+    "gospel": "Mt",
+    "chapter_number": 4,
+    "verse_begin": 4,
+    "verse_end": 5
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 2,
+  "fields": {
+    "verse": "V\u00f3s sois a luz do mundo. N\u00e3o se pode esconder uma cidade situada sobre uma montanha nem se acende uma luz para coloc\u00e1-la debaixo de um recipiente, mas sim para coloc\u00e1-la na lamparina, a fim de que brilhe a todos os que est\u00e3o em casa. Assim, brilhe vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem vosso Pai que est\u00e1 nos c\u00e9us.",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 14,
+    "verse_end": 16
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 3,
+  "fields": {
+    "verse": "Est\u00e1 escrito: N\u00e3o botar\u00e1s \u00e0 prova o Senhor teu Deus.",
+    "gospel": "Mt",
+    "chapter_number": 4,
+    "verse_begin": 7,
+    "verse_end": 8
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 4,
+  "fields": {
+    "verse": "Est\u00e1 escrito: Adorar\u00e1s o Senhor teu Deus, e s\u00f3 a ele servir\u00e1s.",
+    "gospel": "Mt",
+    "chapter_number": 4,
+    "verse_begin": 10,
+    "verse_end": 11
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 5,
+  "fields": {
+    "verse": "Se arrependa, pois o Reino dos c\u00e9us est\u00e1 pr\u00f3ximo.",
+    "gospel": "Mt",
+    "chapter_number": 4,
+    "verse_begin": 17,
+    "verse_end": 18
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 6,
+  "fields": {
+    "verse": "Vinde ap\u00f3s mim e vos farei pescadores de homens.",
+    "gospel": "Mt",
+    "chapter_number": 4,
+    "verse_begin": 19,
+    "verse_end": 20
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 7,
+  "fields": {
+    "verse": "Bem-aventurados os que t\u00eam um cora\u00e7\u00e3o de pobre, porque deles e o Reino dos c\u00e9us.",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 3,
+    "verse_end": 4
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 8,
+  "fields": {
+    "verse": "Bem-aventurados os que choram, porque ser\u00e3o consolados!",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 4,
+    "verse_end": 5
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 9,
+  "fields": {
+    "verse": "Bem-aventurados os mansos, porque possuirao a terra!",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 5,
+    "verse_end": 6
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 10,
+  "fields": {
+    "verse": "Bem-aventurados os que t\u00eam fome, porque ser\u00e3o saciados!",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 6,
+    "verse_end": 7
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 11,
+  "fields": {
+    "verse": "Bem-aventurados os que misericordiosos, porque alcan\u00e7ar\u00e3o miseric\u00f3rdia.",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 7,
+    "verse_end": 8
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 12,
+  "fields": {
+    "verse": "Bem-aventurados os puros de cora\u00e7\u00e3o, porque ver\u00e3o Deus!",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 8,
+    "verse_end": 9
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 13,
+  "fields": {
+    "verse": "Bem-aventurados os pac\u00edficos, porque ser\u00e3o chamados filhos de Deus!",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 9,
+    "verse_end": 10
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 14,
+  "fields": {
+    "verse": "Bem-aventurados os os que s\u00e3o perseguidos por causa da justi\u00e7a, porque deles \u00e9 o Reino de Deus!",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 10,
+    "verse_end": 11
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 15,
+  "fields": {
+    "verse": "Bem-aventurados sereis quando vos caluniarem, quando vos perseguirem e disserem falsamente todo o mal contra v\u00f3s por causa de mim. Alegrai-vos, porque ser\u00e1 grande a vossa recompensa nos c\u00e9us, pois assim perseguiram os profetas que vieram antes de v\u00f3s.",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 11,
+    "verse_end": 12
+  }
+},
+{
+  "model": "verses.verse",
+  "pk": 16,
+  "fields": {
+    "verse": "V\u00f3s sois o sal da terra. Se o sal perde o sabor, como poder\u00e1 restaurar-lhe o sabor? Para nada mais serve sen\u00e3o para ser lan\u00e7ado fora e pisado pelos homens.",
+    "gospel": "Mt",
+    "chapter_number": 5,
+    "verse_begin": 13,
+    "verse_end": 14
+  }
+}
+]

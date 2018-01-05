@@ -21,10 +21,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = ')ofv6e5w6!8h&ypx&)qd+t%y31e8ou3$$r#yha-9n&y-21(+7r'
 
+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0']
+
+SETTINGS_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Application definition
 
@@ -49,7 +52,6 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'whoisjesus.urls'
-ALLOWED_HOSTS = ['0.0.0.0']
 
 TEMPLATES = [
     {
@@ -114,3 +116,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
+
+FIXTURE_DIRS = [
+    os.path.join(SETTINGS_DIR, 'fixtures')
+]

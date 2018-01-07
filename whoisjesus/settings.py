@@ -25,7 +25,7 @@ SECRET_KEY = ')ofv6e5w6!8h&ypx&)qd+t%y31e8ou3$$r#yha-9n&y-21(+7r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['*']
 
 SETTINGS_DIR = os.path.dirname(os.path.abspath(__file__))
 
